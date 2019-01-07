@@ -1,4 +1,3 @@
-#adding new line 1
 pipeline {
  agent any
  stages {
